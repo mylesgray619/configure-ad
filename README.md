@@ -48,7 +48,7 @@ Here is the second part of the process in which I have to add new forest as mydo
 <img src="https://i.imgur.com/PkHCS6H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here I go to Active Directory Users and Computers to create two organizatiols units one for employees and the other for admin. This will organize user access.
+Here I go to Active Directory Users and Computers to create two organizational units one for employees and the other for admin. This will organize user access.
 </p>
 <br />
 
